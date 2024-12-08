@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...idk
 - 📫 How to reach me ...email 
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...english or spanish?
+
+
 
 <!---
 goodgutss/goodgutss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
